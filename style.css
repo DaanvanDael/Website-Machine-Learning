@@ -4,3 +4,14 @@
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
+
+nav{
+  background: #007dad;
+  display: flex;
+}
+
+nav a{
+color: white;
+    text-decoration: none;
+    padding: 10px;
+}
